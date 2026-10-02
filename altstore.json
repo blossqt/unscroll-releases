@@ -1,0 +1,47 @@
+{
+  "name": "Unscroll",
+  "identifier": "app.noscroll.source",
+  "sourceURL": "https://raw.githubusercontent.com/blossqt/unscroll-releases/main/altstore.json",
+  "subtitle": "Instagram without the endless scroll",
+  "description": "Instagram without the endless scroll: no Reels, no Explore, no suggested posts — just the people you follow, their stories, and your DMs. Unscroll is Instagram's own website with those taken out, made to feel like an app.\n\nNot affiliated with, endorsed by, or connected to Meta or Instagram.",
+  "iconURL": "https://raw.githubusercontent.com/blossqt/unscroll-releases/main/icon.png",
+  "website": "https://github.com/blossqt/unscroll-releases",
+  "tintColor": "#2B2740",
+  "apps": [
+    {
+      "name": "Unscroll",
+      "bundleIdentifier": "app.noscroll",
+      "developerName": "blossqt",
+      "subtitle": "Instagram without the endless scroll",
+      "localizedDescription": "Instagram without the endless scroll: no Reels, no Explore, no suggested posts — just the people you follow, their stories, and your DMs. Unscroll is Instagram's own website with those taken out, made to feel like an app.\n\nNot affiliated with, endorsed by, or connected to Meta or Instagram.",
+      "iconURL": "https://raw.githubusercontent.com/blossqt/unscroll-releases/main/icon.png",
+      "tintColor": "#2B2740",
+      "category": "social",
+      "versions": [
+        {
+          "version": "1.7.0",
+          "buildVersion": "10700",
+          "date": "2026-10-02T05:53:47Z",
+          "localizedDescription": "• Unscroll 1.7.0: on iPhone too\n• iOS: test the shell on screen, and photograph Settings properly\n• iOS: list every test's result, photograph the app, quieter build\n• Unscroll for iPhone: a sideloadable iOS app around the same page scripts",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.0/Unscroll-1.7.0.ipa",
+          "size": 516164,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "To take a photo or video for a post, a story or a message.",
+          "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save.",
+          "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
+        }
+      },
+      "version": "1.7.0",
+      "versionDate": "2026-10-02T05:53:47Z",
+      "versionDescription": "• Unscroll 1.7.0: on iPhone too\n• iOS: test the shell on screen, and photograph Settings properly\n• iOS: list every test's result, photograph the app, quieter build\n• Unscroll for iPhone: a sideloadable iOS app around the same page scripts",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.0/Unscroll-1.7.0.ipa",
+      "size": 516164
+    }
+  ],
+  "news": []
+}
