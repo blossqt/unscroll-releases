@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.2",
+          "buildVersion": "10702",
+          "date": "2026-10-02T17:21:24Z",
+          "localizedDescription": "• Unscroll 1.7.2: + and ♡ stay at the top; only \"‹ Following\" goes",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.2/Unscroll-1.7.2.ipa",
+          "size": 520141,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "10701",
           "date": "2026-10-02T17:12:35Z",
@@ -45,11 +54,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.1",
-      "versionDate": "2026-10-02T17:12:35Z",
-      "versionDescription": "• Unscroll 1.7.1: no top bar, one tap for every emoji, hold and slide",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.1/Unscroll-1.7.1.ipa",
-      "size": 521567
+      "version": "1.7.2",
+      "versionDate": "2026-10-02T17:21:24Z",
+      "versionDescription": "• Unscroll 1.7.2: + and ♡ stay at the top; only \"‹ Following\" goes",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.2/Unscroll-1.7.2.ipa",
+      "size": 520141
     }
   ],
   "news": []
