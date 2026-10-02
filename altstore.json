@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "10701",
+          "date": "2026-10-02T17:12:35Z",
+          "localizedDescription": "• Unscroll 1.7.1: no top bar, one tap for every emoji, hold and slide",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.1/Unscroll-1.7.1.ipa",
+          "size": 521567,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "10700",
           "date": "2026-10-02T05:53:47Z",
@@ -36,11 +45,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.0",
-      "versionDate": "2026-10-02T05:53:47Z",
-      "versionDescription": "• Unscroll 1.7.0: on iPhone too\n• iOS: test the shell on screen, and photograph Settings properly\n• iOS: list every test's result, photograph the app, quieter build\n• Unscroll for iPhone: a sideloadable iOS app around the same page scripts",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.0/Unscroll-1.7.0.ipa",
-      "size": 516164
+      "version": "1.7.1",
+      "versionDate": "2026-10-02T17:12:35Z",
+      "versionDescription": "• Unscroll 1.7.1: no top bar, one tap for every emoji, hold and slide",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.1/Unscroll-1.7.1.ipa",
+      "size": 521567
     }
   ],
   "news": []
