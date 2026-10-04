@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.5",
+          "buildVersion": "10705",
+          "date": "2026-10-04T02:59:13Z",
+          "localizedDescription": "• Unscroll 1.7.5: swiping a carousel keeps its post too",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.5/Unscroll-1.7.5.ipa",
+          "size": 521899,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.4",
           "buildVersion": "10704",
           "date": "2026-10-04T02:53:45Z",
@@ -72,11 +81,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.4",
-      "versionDate": "2026-10-04T02:53:45Z",
-      "versionDescription": "• Unscroll 1.7.4: the post you press in stays, or says why it went",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.4/Unscroll-1.7.4.ipa",
-      "size": 521708
+      "version": "1.7.5",
+      "versionDate": "2026-10-04T02:59:13Z",
+      "versionDescription": "• Unscroll 1.7.5: swiping a carousel keeps its post too",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.5/Unscroll-1.7.5.ipa",
+      "size": 521899
     }
   ],
   "news": []
