@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.9",
+          "buildVersion": "10709",
+          "date": "2026-10-04T07:45:38Z",
+          "localizedDescription": "• Unscroll 1.7.9: swiping from Home to the DMs works again; swipes follow Explore and Reels",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.9/Unscroll-1.7.9.ipa",
+          "size": 525465,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.8",
           "buildVersion": "10708",
           "date": "2026-10-04T06:04:58Z",
@@ -108,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.8",
-      "versionDate": "2026-10-04T06:04:58Z",
-      "versionDescription": "• Unscroll 1.7.8: no false \"post vanished\", an empty feed gets filled, notices can be turned off",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.8/Unscroll-1.7.8.ipa",
-      "size": 524692
+      "version": "1.7.9",
+      "versionDate": "2026-10-04T07:45:38Z",
+      "versionDescription": "• Unscroll 1.7.9: swiping from Home to the DMs works again; swipes follow Explore and Reels",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.9/Unscroll-1.7.9.ipa",
+      "size": 525465
     }
   ],
   "news": []
