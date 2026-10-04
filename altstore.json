@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.6",
+          "buildVersion": "10706",
+          "date": "2026-10-04T03:19:00Z",
+          "localizedDescription": "• Unscroll 1.7.6: say where a vanished post went, and nudge the feed to redraw it",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.6/Unscroll-1.7.6.ipa",
+          "size": 522623,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.5",
           "buildVersion": "10705",
           "date": "2026-10-04T02:59:13Z",
@@ -81,11 +90,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.5",
-      "versionDate": "2026-10-04T02:59:13Z",
-      "versionDescription": "• Unscroll 1.7.5: swiping a carousel keeps its post too",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.5/Unscroll-1.7.5.ipa",
-      "size": 521899
+      "version": "1.7.6",
+      "versionDate": "2026-10-04T03:19:00Z",
+      "versionDescription": "• Unscroll 1.7.6: say where a vanished post went, and nudge the feed to redraw it",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.6/Unscroll-1.7.6.ipa",
+      "size": 522623
     }
   ],
   "news": []
