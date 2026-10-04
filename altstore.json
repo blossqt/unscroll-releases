@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.10",
+          "buildVersion": "10710",
+          "date": "2026-10-04T19:36:08Z",
+          "localizedDescription": "• Unscroll 1.7.10: swiping left from Home works on a busy feed; a comment sent in a chat opens its post",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.10/Unscroll-1.7.10.ipa",
+          "size": 532665,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.9",
           "buildVersion": "10709",
           "date": "2026-10-04T07:45:38Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.1/Unscroll-1.7.1.ipa",
           "size": 521567,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.0",
-          "buildVersion": "10700",
-          "date": "2026-10-02T05:53:47Z",
-          "localizedDescription": "• Unscroll 1.7.0: on iPhone too\n• iOS: test the shell on screen, and photograph Settings properly\n• iOS: list every test's result, photograph the app, quieter build\n• Unscroll for iPhone: a sideloadable iOS app around the same page scripts",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.0/Unscroll-1.7.0.ipa",
-          "size": 516164,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.9",
-      "versionDate": "2026-10-04T07:45:38Z",
-      "versionDescription": "• Unscroll 1.7.9: swiping from Home to the DMs works again; swipes follow Explore and Reels",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.9/Unscroll-1.7.9.ipa",
-      "size": 525465
+      "version": "1.7.10",
+      "versionDate": "2026-10-04T19:36:08Z",
+      "versionDescription": "• Unscroll 1.7.10: swiping left from Home works on a busy feed; a comment sent in a chat opens its post",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.10/Unscroll-1.7.10.ipa",
+      "size": 532665
     }
   ],
   "news": []
