@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "10800",
+          "date": "2026-10-04T22:17:17Z",
+          "localizedDescription": "• Unscroll 1.8.0: Settings holds choices, not how it feels; every page change animates",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.0/Unscroll-1.8.0.ipa",
+          "size": 533636,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.12",
           "buildVersion": "10712",
           "date": "2026-10-04T21:01:15Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.4/Unscroll-1.7.4.ipa",
           "size": 521708,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.3",
-          "buildVersion": "10703",
-          "date": "2026-10-04T02:38:46Z",
-          "localizedDescription": "• Unscroll 1.7.3: swiping a carousel no longer makes posts vanish or flips to the DMs",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.3/Unscroll-1.7.3.ipa",
-          "size": 520918,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.12",
-      "versionDate": "2026-10-04T21:01:15Z",
-      "versionDescription": "• Unscroll 1.7.12: posts drawn again at the top of the feed stay in sight",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.12/Unscroll-1.7.12.ipa",
-      "size": 538120
+      "version": "1.8.0",
+      "versionDate": "2026-10-04T22:17:17Z",
+      "versionDescription": "• Unscroll 1.8.0: Settings holds choices, not how it feels; every page change animates",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.0/Unscroll-1.8.0.ipa",
+      "size": 533636
     }
   ],
   "news": []
