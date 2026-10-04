@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.7.11",
+          "buildVersion": "10711",
+          "date": "2026-10-04T20:11:44Z",
+          "localizedDescription": "• Unscroll 1.7.11: the post you're reading stays put; hold a reel for 2×, pinch a photo to zoom",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.11/Unscroll-1.7.11.ipa",
+          "size": 537721,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.10",
           "buildVersion": "10710",
           "date": "2026-10-04T19:36:08Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.2/Unscroll-1.7.2.ipa",
           "size": 520141,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.1",
-          "buildVersion": "10701",
-          "date": "2026-10-02T17:12:35Z",
-          "localizedDescription": "• Unscroll 1.7.1: no top bar, one tap for every emoji, hold and slide",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.1/Unscroll-1.7.1.ipa",
-          "size": 521567,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.7.10",
-      "versionDate": "2026-10-04T19:36:08Z",
-      "versionDescription": "• Unscroll 1.7.10: swiping left from Home works on a busy feed; a comment sent in a chat opens its post",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.10/Unscroll-1.7.10.ipa",
-      "size": 532665
+      "version": "1.7.11",
+      "versionDate": "2026-10-04T20:11:44Z",
+      "versionDescription": "• Unscroll 1.7.11: the post you're reading stays put; hold a reel for 2×, pinch a photo to zoom",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.11/Unscroll-1.7.11.ipa",
+      "size": 537721
     }
   ],
   "news": []
