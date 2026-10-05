@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.5",
+          "buildVersion": "10805",
+          "date": "2026-10-05T06:03:41Z",
+          "localizedDescription": "• Unscroll 1.8.5: a gesture on a sheet or a post opened over a page stays there",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.5/Unscroll-1.8.5.ipa",
+          "size": 539167,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.4",
           "buildVersion": "10804",
           "date": "2026-10-05T05:26:10Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.9/Unscroll-1.7.9.ipa",
           "size": 525465,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.8",
-          "buildVersion": "10708",
-          "date": "2026-10-04T06:04:58Z",
-          "localizedDescription": "• Unscroll 1.7.8: no false \"post vanished\", an empty feed gets filled, notices can be turned off",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.8/Unscroll-1.7.8.ipa",
-          "size": 524692,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.8.4",
-      "versionDate": "2026-10-05T05:26:10Z",
-      "versionDescription": "• Unscroll 1.8.4: holding a reel opened from a chat pauses it, not the message behind",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.4/Unscroll-1.8.4.ipa",
-      "size": 538817
+      "version": "1.8.5",
+      "versionDate": "2026-10-05T06:03:41Z",
+      "versionDescription": "• Unscroll 1.8.5: a gesture on a sheet or a post opened over a page stays there",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.5/Unscroll-1.8.5.ipa",
+      "size": 539167
     }
   ],
   "news": []
