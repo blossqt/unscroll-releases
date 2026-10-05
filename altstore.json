@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.1",
+          "buildVersion": "10801",
+          "date": "2026-10-05T01:44:43Z",
+          "localizedDescription": "• Unscroll 1.8.1: a bug sweep (docs/BUG_SWEEP.md): page changes move on every iPhone, back closes a chat's menu",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.1/Unscroll-1.8.1.ipa",
+          "size": 534399,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "10800",
           "date": "2026-10-04T22:17:17Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.5/Unscroll-1.7.5.ipa",
           "size": 521899,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.4",
-          "buildVersion": "10704",
-          "date": "2026-10-04T02:53:45Z",
-          "localizedDescription": "• Unscroll 1.7.4: the post you press in stays, or says why it went",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.4/Unscroll-1.7.4.ipa",
-          "size": 521708,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.8.0",
-      "versionDate": "2026-10-04T22:17:17Z",
-      "versionDescription": "• Unscroll 1.8.0: Settings holds choices, not how it feels; every page change animates",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.0/Unscroll-1.8.0.ipa",
-      "size": 533636
+      "version": "1.8.1",
+      "versionDate": "2026-10-05T01:44:43Z",
+      "versionDescription": "• Unscroll 1.8.1: a bug sweep (docs/BUG_SWEEP.md): page changes move on every iPhone, back closes a chat's menu",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.1/Unscroll-1.8.1.ipa",
+      "size": 534399
     }
   ],
   "news": []

@@ -3,11 +3,11 @@
 Instagram without the endless scroll: no Reels, no Explore, no suggested posts —
 just the people you follow, their stories, and your DMs.
 
-**Latest version: 1.8.0** · [Download](https://github.com/blossqt/unscroll-releases/releases/latest)
+**Latest version: 1.8.1** · [Download](https://github.com/blossqt/unscroll-releases/releases/latest)
 
 ## Install on Android
 
-1. On your phone, download `Unscroll-1.8.0.apk` from the
+1. On your phone, download `Unscroll-1.8.1.apk` from the
    [latest release](https://github.com/blossqt/unscroll-releases/releases/latest)
    and open it. Allow installing apps from your browser when Android asks.
 2. If Play Protect says the app is blocked, tap **Install anyway**: it warns
@@ -18,7 +18,7 @@ just the people you follow, their stories, and your DMs.
 ## Install on iPhone
 
 An iPhone only installs apps from the App Store, unless you use an app that
-sideloads them. Unscroll is `Unscroll-1.8.0.ipa` in the
+sideloads them. Unscroll is `Unscroll-1.8.1.ipa` in the
 [latest release](https://github.com/blossqt/unscroll-releases/releases/latest),
 unsigned, for any of these to sign with your own Apple ID and install:
 
@@ -61,6 +61,6 @@ install it from the source above.
 
 Unscroll is free software under the AGPL-3.0, based on
 [NoScroll](https://github.com/Blueturboguy07/noscroll) by Blueturboguy07. Each
-release carries the source it was built from (`Unscroll-1.8.0-source.tar.gz`).
+release carries the source it was built from (`Unscroll-1.8.1-source.tar.gz`).
 
 Not affiliated with, endorsed by, or connected to Meta or Instagram.
