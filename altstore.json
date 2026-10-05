@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.2",
+          "buildVersion": "10802",
+          "date": "2026-10-05T02:33:10Z",
+          "localizedDescription": "• Unscroll 1.8.2: reels kept out of the feed's data, so posts stop vanishing as you swipe a carousel",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.2/Unscroll-1.8.2.ipa",
+          "size": 537342,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.1",
           "buildVersion": "10801",
           "date": "2026-10-05T01:44:43Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.6/Unscroll-1.7.6.ipa",
           "size": 522623,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.5",
-          "buildVersion": "10705",
-          "date": "2026-10-04T02:59:13Z",
-          "localizedDescription": "• Unscroll 1.7.5: swiping a carousel keeps its post too",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.5/Unscroll-1.7.5.ipa",
-          "size": 521899,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.8.1",
-      "versionDate": "2026-10-05T01:44:43Z",
-      "versionDescription": "• Unscroll 1.8.1: a bug sweep (docs/BUG_SWEEP.md): page changes move on every iPhone, back closes a chat's menu",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.1/Unscroll-1.8.1.ipa",
-      "size": 534399
+      "version": "1.8.2",
+      "versionDate": "2026-10-05T02:33:10Z",
+      "versionDescription": "• Unscroll 1.8.2: reels kept out of the feed's data, so posts stop vanishing as you swipe a carousel",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.2/Unscroll-1.8.2.ipa",
+      "size": 537342
     }
   ],
   "news": []
