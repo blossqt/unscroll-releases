@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.4",
+          "buildVersion": "10804",
+          "date": "2026-10-05T05:26:10Z",
+          "localizedDescription": "• Unscroll 1.8.4: holding a reel opened from a chat pauses it, not the message behind",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.4/Unscroll-1.8.4.ipa",
+          "size": 538817,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.3",
           "buildVersion": "10803",
           "date": "2026-10-05T03:16:41Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.8/Unscroll-1.7.8.ipa",
           "size": 524692,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.7",
-          "buildVersion": "10707",
-          "date": "2026-10-04T03:48:41Z",
-          "localizedDescription": "• Unscroll 1.7.7: \"Following\" found by its word, not by its icons' names",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.7/Unscroll-1.7.7.ipa",
-          "size": 523375,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.8.3",
-      "versionDate": "2026-10-05T03:16:41Z",
-      "versionDescription": "• Unscroll 1.8.3: reels kept out of the feed's streamed answers too; the bar's rules leave posts alone",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.3/Unscroll-1.8.3.ipa",
-      "size": 538437
+      "version": "1.8.4",
+      "versionDate": "2026-10-05T05:26:10Z",
+      "versionDescription": "• Unscroll 1.8.4: holding a reel opened from a chat pauses it, not the message behind",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.4/Unscroll-1.8.4.ipa",
+      "size": 538817
     }
   ],
   "news": []
