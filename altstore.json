@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.8.3",
+          "buildVersion": "10803",
+          "date": "2026-10-05T03:16:41Z",
+          "localizedDescription": "• Unscroll 1.8.3: reels kept out of the feed's streamed answers too; the bar's rules leave posts alone",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.3/Unscroll-1.8.3.ipa",
+          "size": 538437,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.2",
           "buildVersion": "10802",
           "date": "2026-10-05T02:33:10Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.7/Unscroll-1.7.7.ipa",
           "size": 523375,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.6",
-          "buildVersion": "10706",
-          "date": "2026-10-04T03:19:00Z",
-          "localizedDescription": "• Unscroll 1.7.6: say where a vanished post went, and nudge the feed to redraw it",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.6/Unscroll-1.7.6.ipa",
-          "size": 522623,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "1.8.2",
-      "versionDate": "2026-10-05T02:33:10Z",
-      "versionDescription": "• Unscroll 1.8.2: reels kept out of the feed's data, so posts stop vanishing as you swipe a carousel",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.2/Unscroll-1.8.2.ipa",
-      "size": 537342
+      "version": "1.8.3",
+      "versionDate": "2026-10-05T03:16:41Z",
+      "versionDescription": "• Unscroll 1.8.3: reels kept out of the feed's streamed answers too; the bar's rules leave posts alone",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.3/Unscroll-1.8.3.ipa",
+      "size": 538437
     }
   ],
   "news": []
