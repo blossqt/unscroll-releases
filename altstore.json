@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.9.3",
+          "buildVersion": "10903",
+          "date": "2026-10-10T21:49:29Z",
+          "localizedDescription": "• Unscroll 1.9.3: Home is the Following feed, not \"Suggested for you\"",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.3/Unscroll-1.9.3.ipa",
+          "size": 552078,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.2",
           "buildVersion": "10902",
           "date": "2026-10-10T21:33:05Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.0/Unscroll-1.8.0.ipa",
           "size": 533636,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.12",
-          "buildVersion": "10712",
-          "date": "2026-10-04T21:01:15Z",
-          "localizedDescription": "• Unscroll 1.7.12: posts drawn again at the top of the feed stay in sight",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.12/Unscroll-1.7.12.ipa",
-          "size": 538120,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "1.9.2",
-      "versionDate": "2026-10-10T21:33:05Z",
-      "versionDescription": "• Unscroll 1.9.2: a story opens without asking \"View as …?\" first",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.2/Unscroll-1.9.2.ipa",
-      "size": 551688
+      "version": "1.9.3",
+      "versionDate": "2026-10-10T21:49:29Z",
+      "versionDescription": "• Unscroll 1.9.3: Home is the Following feed, not \"Suggested for you\"",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.3/Unscroll-1.9.3.ipa",
+      "size": 552078
     }
   ],
   "news": []
