@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.9.4",
+          "buildVersion": "10904",
+          "date": "2026-10-10T22:08:18Z",
+          "localizedDescription": "• Unscroll 1.9.4: a post, reel or comment a friend sends opens when tapped",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.4/Unscroll-1.9.4.ipa",
+          "size": 553112,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.3",
           "buildVersion": "10903",
           "date": "2026-10-10T21:49:29Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.1/Unscroll-1.8.1.ipa",
           "size": 534399,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.0",
-          "buildVersion": "10800",
-          "date": "2026-10-04T22:17:17Z",
-          "localizedDescription": "• Unscroll 1.8.0: Settings holds choices, not how it feels; every page change animates",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.0/Unscroll-1.8.0.ipa",
-          "size": 533636,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "1.9.3",
-      "versionDate": "2026-10-10T21:49:29Z",
-      "versionDescription": "• Unscroll 1.9.3: Home is the Following feed, not \"Suggested for you\"",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.3/Unscroll-1.9.3.ipa",
-      "size": 552078
+      "version": "1.9.4",
+      "versionDate": "2026-10-10T22:08:18Z",
+      "versionDescription": "• Unscroll 1.9.4: a post, reel or comment a friend sends opens when tapped",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.4/Unscroll-1.9.4.ipa",
+      "size": 553112
     }
   ],
   "news": []
