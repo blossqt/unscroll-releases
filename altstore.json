@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "10900",
+          "date": "2026-10-10T19:08:41Z",
+          "localizedDescription": "• Unscroll 1.9.0: a camera in the chat, and photos from the phone's photo picker\n• Unscroll 1.8.13: a message's whole menu, found however Instagram shows it\n• Unscroll 1.8.12: holding your own message shows its whole menu, once\n• Unscroll 1.8.11: Home is the Following feed again\n• Unscroll 1.8.10: over the feed, the keyboard slides the page up instead of shrinking it\n• Unscroll 1.8.9: a push to the feed's own address no longer reloads it; a keyboard that closes by itself is reported\n• Unscroll 1.8.8: sharing a post, its search keeps the keyboard\n• Ignore Kotlin's build state (.kotlin/), and untrack a compiler log committed by mistake\n• Unscroll 1.8.7: holding a message shows Instagram's whole menu for it at once\n• Unscroll 1.8.6: a chat's reactions open from the bubble only; its notices follow Settings",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.0/Unscroll-1.9.0.ipa",
+          "size": 548213,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.5",
           "buildVersion": "10805",
           "date": "2026-10-05T06:03:41Z",
@@ -98,30 +107,21 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.10/Unscroll-1.7.10.ipa",
           "size": 532665,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.7.9",
-          "buildVersion": "10709",
-          "date": "2026-10-04T07:45:38Z",
-          "localizedDescription": "• Unscroll 1.7.9: swiping from Home to the DMs works again; swipes follow Explore and Reels",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.7.9/Unscroll-1.7.9.ipa",
-          "size": 525465,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "To take a photo or video for a post, a story or a message.",
-          "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save.",
-          "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
+          "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message.",
+          "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "1.8.5",
-      "versionDate": "2026-10-05T06:03:41Z",
-      "versionDescription": "• Unscroll 1.8.5: a gesture on a sheet or a post opened over a page stays there",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.5/Unscroll-1.8.5.ipa",
-      "size": 539167
+      "version": "1.9.0",
+      "versionDate": "2026-10-10T19:08:41Z",
+      "versionDescription": "• Unscroll 1.9.0: a camera in the chat, and photos from the phone's photo picker\n• Unscroll 1.8.13: a message's whole menu, found however Instagram shows it\n• Unscroll 1.8.12: holding your own message shows its whole menu, once\n• Unscroll 1.8.11: Home is the Following feed again\n• Unscroll 1.8.10: over the feed, the keyboard slides the page up instead of shrinking it\n• Unscroll 1.8.9: a push to the feed's own address no longer reloads it; a keyboard that closes by itself is reported\n• Unscroll 1.8.8: sharing a post, its search keeps the keyboard\n• Ignore Kotlin's build state (.kotlin/), and untrack a compiler log committed by mistake\n• Unscroll 1.8.7: holding a message shows Instagram's whole menu for it at once\n• Unscroll 1.8.6: a chat's reactions open from the bubble only; its notices follow Settings",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.0/Unscroll-1.9.0.ipa",
+      "size": 548213
     }
   ],
   "news": []
