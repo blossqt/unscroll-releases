@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "1.9.5",
+          "buildVersion": "10905",
+          "date": "2026-10-11T03:50:17Z",
+          "localizedDescription": "• Unscroll 1.9.5: a comment you shared opens its post; back from a reel stays in the chat",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.5/Unscroll-1.9.5.ipa",
+          "size": 554065,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.4",
           "buildVersion": "10904",
           "date": "2026-10-10T22:08:18Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.2/Unscroll-1.8.2.ipa",
           "size": 537342,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.1",
-          "buildVersion": "10801",
-          "date": "2026-10-05T01:44:43Z",
-          "localizedDescription": "• Unscroll 1.8.1: a bug sweep (docs/BUG_SWEEP.md): page changes move on every iPhone, back closes a chat's menu",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.1/Unscroll-1.8.1.ipa",
-          "size": 534399,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "1.9.4",
-      "versionDate": "2026-10-10T22:08:18Z",
-      "versionDescription": "• Unscroll 1.9.4: a post, reel or comment a friend sends opens when tapped",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.4/Unscroll-1.9.4.ipa",
-      "size": 553112
+      "version": "1.9.5",
+      "versionDate": "2026-10-11T03:50:17Z",
+      "versionDescription": "• Unscroll 1.9.5: a comment you shared opens its post; back from a reel stays in the chat",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.5/Unscroll-1.9.5.ipa",
+      "size": 554065
     }
   ],
   "news": []
