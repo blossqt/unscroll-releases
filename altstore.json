@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.0",
+          "buildVersion": "20500",
+          "date": "2026-10-11T22:02:55Z",
+          "localizedDescription": "• New messages without Instagram's app: every 15 minutes or so Unscroll checks for chats with unread messages and tells you (Settings → Notifications → Check for new messages; on by itself where Instagram's app isn't installed).\n• Save a photo or video sent in a chat: hold it → Save.\n• Send in a chat, from any app: share words, a link or photos to Unscroll, pick the chat, and they're in its message box, ready to send.\n• Your time (Settings): time spent each day, an optional daily feed limit with a reminder, and Messages only at night.\n• Long-press the Unscroll icon → Messages.",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.0/Unscroll-2.5.0.ipa",
+          "size": 558774,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.0.1",
           "buildVersion": "20001",
           "date": "2026-10-11T16:57:35Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.5/Unscroll-1.8.5.ipa",
           "size": 539167,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.4",
-          "buildVersion": "10804",
-          "date": "2026-10-05T05:26:10Z",
-          "localizedDescription": "• Unscroll 1.8.4: holding a reel opened from a chat pauses it, not the message behind",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.4/Unscroll-1.8.4.ipa",
-          "size": 538817,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.0.1",
-      "versionDate": "2026-10-11T16:57:35Z",
-      "versionDescription": "• Unscroll 2.0.1: double-tapping a message likes it every time",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.1/Unscroll-2.0.1.ipa",
-      "size": 557364
+      "version": "2.5.0",
+      "versionDate": "2026-10-11T22:02:55Z",
+      "versionDescription": "• New messages without Instagram's app: every 15 minutes or so Unscroll checks for chats with unread messages and tells you (Settings → Notifications → Check for new messages; on by itself where Instagram's app isn't installed).\n• Save a photo or video sent in a chat: hold it → Save.\n• Send in a chat, from any app: share words, a link or photos to Unscroll, pick the chat, and they're in its message box, ready to send.\n• Your time (Settings): time spent each day, an optional daily feed limit with a reminder, and Messages only at night.\n• Long-press the Unscroll icon → Messages.",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.0/Unscroll-2.5.0.ipa",
+      "size": 558774
     }
   ],
   "news": []
