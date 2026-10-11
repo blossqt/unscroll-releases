@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.0.0",
+          "buildVersion": "20000",
+          "date": "2026-10-11T07:42:06Z",
+          "localizedDescription": "• Unscroll 2.0.0: smoother, measured on a phone",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.0/Unscroll-2.0.0.ipa",
+          "size": 556207,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.5",
           "buildVersion": "10905",
           "date": "2026-10-11T03:50:17Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.3/Unscroll-1.8.3.ipa",
           "size": 538437,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.2",
-          "buildVersion": "10802",
-          "date": "2026-10-05T02:33:10Z",
-          "localizedDescription": "• Unscroll 1.8.2: reels kept out of the feed's data, so posts stop vanishing as you swipe a carousel",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.2/Unscroll-1.8.2.ipa",
-          "size": 537342,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "1.9.5",
-      "versionDate": "2026-10-11T03:50:17Z",
-      "versionDescription": "• Unscroll 1.9.5: a comment you shared opens its post; back from a reel stays in the chat",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.5/Unscroll-1.9.5.ipa",
-      "size": 554065
+      "version": "2.0.0",
+      "versionDate": "2026-10-11T07:42:06Z",
+      "versionDescription": "• Unscroll 2.0.0: smoother, measured on a phone",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.0/Unscroll-2.0.0.ipa",
+      "size": 556207
     }
   ],
   "news": []
