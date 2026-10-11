@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.0.1",
+          "buildVersion": "20001",
+          "date": "2026-10-11T16:57:35Z",
+          "localizedDescription": "• Unscroll 2.0.1: double-tapping a message likes it every time",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.1/Unscroll-2.0.1.ipa",
+          "size": 557364,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.0.0",
           "buildVersion": "20000",
           "date": "2026-10-11T07:42:06Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.4/Unscroll-1.8.4.ipa",
           "size": 538817,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.3",
-          "buildVersion": "10803",
-          "date": "2026-10-05T03:16:41Z",
-          "localizedDescription": "• Unscroll 1.8.3: reels kept out of the feed's streamed answers too; the bar's rules leave posts alone",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.3/Unscroll-1.8.3.ipa",
-          "size": 538437,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.0.0",
-      "versionDate": "2026-10-11T07:42:06Z",
-      "versionDescription": "• Unscroll 2.0.0: smoother, measured on a phone",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.0/Unscroll-2.0.0.ipa",
-      "size": 556207
+      "version": "2.0.1",
+      "versionDate": "2026-10-11T16:57:35Z",
+      "versionDescription": "• Unscroll 2.0.1: double-tapping a message likes it every time",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.1/Unscroll-2.0.1.ipa",
+      "size": 557364
     }
   ],
   "news": []
