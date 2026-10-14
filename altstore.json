@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.4",
+          "buildVersion": "20504",
+          "date": "2026-10-14T06:00:28Z",
+          "localizedDescription": "• Send videos in a chat: the photo button takes them now, and one too big for Instagram's website (25 MB) is made smaller first, as Instagram's app does\n\niPhone: the photo button offers videos too, up to Instagram's 25 MB (made smaller on Android only).",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.4/Unscroll-2.5.4.ipa",
+          "size": 561000,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.3",
           "buildVersion": "20503",
           "date": "2026-10-14T05:44:39Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.3/Unscroll-1.9.3.ipa",
           "size": 552078,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.2",
-          "buildVersion": "10902",
-          "date": "2026-10-10T21:33:05Z",
-          "localizedDescription": "• Unscroll 1.9.2: a story opens without asking \"View as …?\" first",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.2/Unscroll-1.9.2.ipa",
-          "size": 551688,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.3",
-      "versionDate": "2026-10-14T05:44:39Z",
-      "versionDescription": "• A photo no longer brings a failed empty message with it: a stray space or line break left in the box was sent as one\n\niPhone too.",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.3/Unscroll-2.5.3.ipa",
-      "size": 560650
+      "version": "2.5.4",
+      "versionDate": "2026-10-14T06:00:28Z",
+      "versionDescription": "• Send videos in a chat: the photo button takes them now, and one too big for Instagram's website (25 MB) is made smaller first, as Instagram's app does\n\niPhone: the photo button offers videos too, up to Instagram's 25 MB (made smaller on Android only).",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.4/Unscroll-2.5.4.ipa",
+      "size": 561000
     }
   ],
   "news": []
