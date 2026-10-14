@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.1",
+          "buildVersion": "20501",
+          "date": "2026-10-14T05:00:55Z",
+          "localizedDescription": "• The camera button no longer stays on screen over a chat's details",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.1/Unscroll-2.5.1.ipa",
+          "size": 558968,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.0",
           "buildVersion": "20500",
           "date": "2026-10-11T22:02:55Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.0/Unscroll-1.9.0.ipa",
           "size": 548213,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.8.5",
-          "buildVersion": "10805",
-          "date": "2026-10-05T06:03:41Z",
-          "localizedDescription": "• Unscroll 1.8.5: a gesture on a sheet or a post opened over a page stays there",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.8.5/Unscroll-1.8.5.ipa",
-          "size": 539167,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.0",
-      "versionDate": "2026-10-11T22:02:55Z",
-      "versionDescription": "• New messages without Instagram's app: every 15 minutes or so Unscroll checks for chats with unread messages and tells you (Settings → Notifications → Check for new messages; on by itself where Instagram's app isn't installed).\n• Save a photo or video sent in a chat: hold it → Save.\n• Send in a chat, from any app: share words, a link or photos to Unscroll, pick the chat, and they're in its message box, ready to send.\n• Your time (Settings): time spent each day, an optional daily feed limit with a reminder, and Messages only at night.\n• Long-press the Unscroll icon → Messages.",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.0/Unscroll-2.5.0.ipa",
-      "size": 558774
+      "version": "2.5.1",
+      "versionDate": "2026-10-14T05:00:55Z",
+      "versionDescription": "• The camera button no longer stays on screen over a chat's details",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.1/Unscroll-2.5.1.ipa",
+      "size": 558968
     }
   ],
   "news": []
