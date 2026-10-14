@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.5",
+          "buildVersion": "20505",
+          "date": "2026-10-14T22:30:34Z",
+          "localizedDescription": "• Stories: going back (a swipe right, or a tap back on someone's first story) goes to the person before, at the story you left them on, instead of skipping ahead or closing\n\niPhone: the same, on iOS 26 and later.",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.5/Unscroll-2.5.5.ipa",
+          "size": 562494,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.4",
           "buildVersion": "20504",
           "date": "2026-10-14T06:00:28Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.4/Unscroll-1.9.4.ipa",
           "size": 553112,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.3",
-          "buildVersion": "10903",
-          "date": "2026-10-10T21:49:29Z",
-          "localizedDescription": "• Unscroll 1.9.3: Home is the Following feed, not \"Suggested for you\"",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.3/Unscroll-1.9.3.ipa",
-          "size": 552078,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.4",
-      "versionDate": "2026-10-14T06:00:28Z",
-      "versionDescription": "• Send videos in a chat: the photo button takes them now, and one too big for Instagram's website (25 MB) is made smaller first, as Instagram's app does\n\niPhone: the photo button offers videos too, up to Instagram's 25 MB (made smaller on Android only).",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.4/Unscroll-2.5.4.ipa",
-      "size": 561000
+      "version": "2.5.5",
+      "versionDate": "2026-10-14T22:30:34Z",
+      "versionDescription": "• Stories: going back (a swipe right, or a tap back on someone's first story) goes to the person before, at the story you left them on, instead of skipping ahead or closing\n\niPhone: the same, on iOS 26 and later.",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.5/Unscroll-2.5.5.ipa",
+      "size": 562494
     }
   ],
   "news": []
