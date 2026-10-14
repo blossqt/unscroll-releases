@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.3",
+          "buildVersion": "20503",
+          "date": "2026-10-14T05:44:39Z",
+          "localizedDescription": "• A photo no longer brings a failed empty message with it: a stray space or line break left in the box was sent as one\n\niPhone too.",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.3/Unscroll-2.5.3.ipa",
+          "size": 560650,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.2",
           "buildVersion": "20502",
           "date": "2026-10-14T05:26:57Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.2/Unscroll-1.9.2.ipa",
           "size": 551688,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.1",
-          "buildVersion": "10901",
-          "date": "2026-10-10T19:25:58Z",
-          "localizedDescription": "• Unscroll 1.9.1: the chat's camera no longer sits on \"Message...\"",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.1/Unscroll-1.9.1.ipa",
-          "size": 551140,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.2",
-      "versionDate": "2026-10-14T05:26:57Z",
-      "versionDescription": "• Links off Instagram open in the app for them (YouTube's, say) or your phone's browser, where you're signed in\n• Hold a message with a link in it: Copy link\n\niPhone: Copy link in the chat menu. Links there already open in Safari.",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.2/Unscroll-2.5.2.ipa",
-      "size": 559776
+      "version": "2.5.3",
+      "versionDate": "2026-10-14T05:44:39Z",
+      "versionDescription": "• A photo no longer brings a failed empty message with it: a stray space or line break left in the box was sent as one\n\niPhone too.",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.3/Unscroll-2.5.3.ipa",
+      "size": 560650
     }
   ],
   "news": []
