@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.2",
+          "buildVersion": "20502",
+          "date": "2026-10-14T05:26:57Z",
+          "localizedDescription": "• Links off Instagram open in the app for them (YouTube's, say) or your phone's browser, where you're signed in\n• Hold a message with a link in it: Copy link\n\niPhone: Copy link in the chat menu. Links there already open in Safari.",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.2/Unscroll-2.5.2.ipa",
+          "size": 559776,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.1",
           "buildVersion": "20501",
           "date": "2026-10-14T05:00:55Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.1/Unscroll-1.9.1.ipa",
           "size": 551140,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.0",
-          "buildVersion": "10900",
-          "date": "2026-10-10T19:08:41Z",
-          "localizedDescription": "• Unscroll 1.9.0: a camera in the chat, and photos from the phone's photo picker\n• Unscroll 1.8.13: a message's whole menu, found however Instagram shows it\n• Unscroll 1.8.12: holding your own message shows its whole menu, once\n• Unscroll 1.8.11: Home is the Following feed again\n• Unscroll 1.8.10: over the feed, the keyboard slides the page up instead of shrinking it\n• Unscroll 1.8.9: a push to the feed's own address no longer reloads it; a keyboard that closes by itself is reported\n• Unscroll 1.8.8: sharing a post, its search keeps the keyboard\n• Ignore Kotlin's build state (.kotlin/), and untrack a compiler log committed by mistake\n• Unscroll 1.8.7: holding a message shows Instagram's whole menu for it at once\n• Unscroll 1.8.6: a chat's reactions open from the bubble only; its notices follow Settings",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.0/Unscroll-1.9.0.ipa",
-          "size": 548213,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.1",
-      "versionDate": "2026-10-14T05:00:55Z",
-      "versionDescription": "• The camera button no longer stays on screen over a chat's details",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.1/Unscroll-2.5.1.ipa",
-      "size": 558968
+      "version": "2.5.2",
+      "versionDate": "2026-10-14T05:26:57Z",
+      "versionDescription": "• Links off Instagram open in the app for them (YouTube's, say) or your phone's browser, where you're signed in\n• Hold a message with a link in it: Copy link\n\niPhone: Copy link in the chat menu. Links there already open in Safari.",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.2/Unscroll-2.5.2.ipa",
+      "size": 559776
     }
   ],
   "news": []
