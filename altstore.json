@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.6",
+          "buildVersion": "20506",
+          "date": "2026-10-20T19:08:16Z",
+          "localizedDescription": "• DMs: pull down at the top of the inbox to refresh, as on the feed\n\niPhone: the same page scripts; pulling the inbox to refresh needs a new iPhone build, so for now it is the feed only there.",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.6/Unscroll-2.5.6.ipa",
+          "size": 562901,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.5",
           "buildVersion": "20505",
           "date": "2026-10-14T22:30:34Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.5/Unscroll-1.9.5.ipa",
           "size": 554065,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.4",
-          "buildVersion": "10904",
-          "date": "2026-10-10T22:08:18Z",
-          "localizedDescription": "• Unscroll 1.9.4: a post, reel or comment a friend sends opens when tapped",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.4/Unscroll-1.9.4.ipa",
-          "size": 553112,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.5",
-      "versionDate": "2026-10-14T22:30:34Z",
-      "versionDescription": "• Stories: going back (a swipe right, or a tap back on someone's first story) goes to the person before, at the story you left them on, instead of skipping ahead or closing\n\niPhone: the same, on iOS 26 and later.",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.5/Unscroll-2.5.5.ipa",
-      "size": 562494
+      "version": "2.5.6",
+      "versionDate": "2026-10-20T19:08:16Z",
+      "versionDescription": "• DMs: pull down at the top of the inbox to refresh, as on the feed\n\niPhone: the same page scripts; pulling the inbox to refresh needs a new iPhone build, so for now it is the feed only there.",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.6/Unscroll-2.5.6.ipa",
+      "size": 562901
     }
   ],
   "news": []
