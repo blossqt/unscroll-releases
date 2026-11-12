@@ -21,8 +21,8 @@
         {
           "version": "2.5.7",
           "buildVersion": "20507",
-          "date": "2026-11-12T01:49:42Z",
-          "localizedDescription": "• Notifications: pull down a chat's notification to see every message since you last looked, not just the newest\n\niPhone: nothing new (iOS doesn't let Unscroll show Instagram's notifications).",
+          "date": "2026-11-12T01:52:24Z",
+          "localizedDescription": "• Unscroll 2.5.7: a chat's notification keeps every message you missed",
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.7/Unscroll-2.5.7.ipa",
           "size": 562901,
           "minOSVersion": "16.4"
@@ -118,8 +118,8 @@
         }
       },
       "version": "2.5.7",
-      "versionDate": "2026-11-12T01:49:42Z",
-      "versionDescription": "• Notifications: pull down a chat's notification to see every message since you last looked, not just the newest\n\niPhone: nothing new (iOS doesn't let Unscroll show Instagram's notifications).",
+      "versionDate": "2026-11-12T01:52:24Z",
+      "versionDescription": "• Unscroll 2.5.7: a chat's notification keeps every message you missed",
       "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.7/Unscroll-2.5.7.ipa",
       "size": 562901
     }
