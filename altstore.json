@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.8",
+          "buildVersion": "20508",
+          "date": "2026-11-12T17:17:28Z",
+          "localizedDescription": "• Unscroll 2.5.8: chat notifications list each message once, and leave out those already read",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.8/Unscroll-2.5.8.ipa",
+          "size": 562901,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.7",
           "buildVersion": "20507",
           "date": "2026-11-12T01:52:24Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.1/Unscroll-2.0.1.ipa",
           "size": 557364,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.0.0",
-          "buildVersion": "20000",
-          "date": "2026-10-11T07:42:06Z",
-          "localizedDescription": "• Unscroll 2.0.0: smoother, measured on a phone",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.0/Unscroll-2.0.0.ipa",
-          "size": 556207,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.7",
-      "versionDate": "2026-11-12T01:52:24Z",
-      "versionDescription": "• Unscroll 2.5.7: a chat's notification keeps every message you missed",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.7/Unscroll-2.5.7.ipa",
+      "version": "2.5.8",
+      "versionDate": "2026-11-12T17:17:28Z",
+      "versionDescription": "• Unscroll 2.5.8: chat notifications list each message once, and leave out those already read",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.8/Unscroll-2.5.8.ipa",
       "size": 562901
     }
   ],
