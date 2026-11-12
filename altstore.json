@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.7",
+          "buildVersion": "20507",
+          "date": "2026-11-12T01:49:42Z",
+          "localizedDescription": "• Notifications: pull down a chat's notification to see every message since you last looked, not just the newest\n\niPhone: nothing new (iOS doesn't let Unscroll show Instagram's notifications).",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.7/Unscroll-2.5.7.ipa",
+          "size": 562901,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.6",
           "buildVersion": "20506",
           "date": "2026-10-20T19:08:16Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.0/Unscroll-2.0.0.ipa",
           "size": 556207,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.9.5",
-          "buildVersion": "10905",
-          "date": "2026-10-11T03:50:17Z",
-          "localizedDescription": "• Unscroll 1.9.5: a comment you shared opens its post; back from a reel stays in the chat",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v1.9.5/Unscroll-1.9.5.ipa",
-          "size": 554065,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.6",
-      "versionDate": "2026-10-20T19:08:16Z",
-      "versionDescription": "• DMs: pull down at the top of the inbox to refresh, as on the feed\n\niPhone: the same page scripts; pulling the inbox to refresh needs a new iPhone build, so for now it is the feed only there.",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.6/Unscroll-2.5.6.ipa",
+      "version": "2.5.7",
+      "versionDate": "2026-11-12T01:49:42Z",
+      "versionDescription": "• Notifications: pull down a chat's notification to see every message since you last looked, not just the newest\n\niPhone: nothing new (iOS doesn't let Unscroll show Instagram's notifications).",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.7/Unscroll-2.5.7.ipa",
       "size": 562901
     }
   ],
