@@ -21,7 +21,7 @@
         {
           "version": "2.5.8",
           "buildVersion": "20508",
-          "date": "2026-11-12T17:17:28Z",
+          "date": "2026-11-12T17:21:47Z",
           "localizedDescription": "• Unscroll 2.5.8: chat notifications list each message once, and leave out those already read",
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.8/Unscroll-2.5.8.ipa",
           "size": 562901,
@@ -118,7 +118,7 @@
         }
       },
       "version": "2.5.8",
-      "versionDate": "2026-11-12T17:17:28Z",
+      "versionDate": "2026-11-12T17:21:47Z",
       "versionDescription": "• Unscroll 2.5.8: chat notifications list each message once, and leave out those already read",
       "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.8/Unscroll-2.5.8.ipa",
       "size": 562901
