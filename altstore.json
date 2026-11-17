@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.10",
+          "buildVersion": "20510",
+          "date": "2026-11-17T06:39:08Z",
+          "localizedDescription": "• Unscroll 2.5.10: back over a reel's comments in a chat closes the comments",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.10/Unscroll-2.5.10.ipa",
+          "size": 563773,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.9",
           "buildVersion": "20509",
           "date": "2026-11-17T06:28:16Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.1/Unscroll-2.5.1.ipa",
           "size": 558968,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.5.0",
-          "buildVersion": "20500",
-          "date": "2026-10-11T22:02:55Z",
-          "localizedDescription": "• New messages without Instagram's app: every 15 minutes or so Unscroll checks for chats with unread messages and tells you (Settings → Notifications → Check for new messages; on by itself where Instagram's app isn't installed).\n• Save a photo or video sent in a chat: hold it → Save.\n• Send in a chat, from any app: share words, a link or photos to Unscroll, pick the chat, and they're in its message box, ready to send.\n• Your time (Settings): time spent each day, an optional daily feed limit with a reminder, and Messages only at night.\n• Long-press the Unscroll icon → Messages.",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.0/Unscroll-2.5.0.ipa",
-          "size": 558774,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.9",
-      "versionDate": "2026-11-17T06:28:16Z",
-      "versionDescription": "• Unscroll 2.5.9: the keyboard stays open in a share sheet's search over the DMs",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.9/Unscroll-2.5.9.ipa",
-      "size": 563267
+      "version": "2.5.10",
+      "versionDate": "2026-11-17T06:39:08Z",
+      "versionDescription": "• Unscroll 2.5.10: back over a reel's comments in a chat closes the comments",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.10/Unscroll-2.5.10.ipa",
+      "size": 563773
     }
   ],
   "news": []
