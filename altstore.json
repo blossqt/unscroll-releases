@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.9",
+          "buildVersion": "20509",
+          "date": "2026-11-17T06:28:16Z",
+          "localizedDescription": "• Unscroll 2.5.9: the keyboard stays open in a share sheet's search over the DMs",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.9/Unscroll-2.5.9.ipa",
+          "size": 563267,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.8",
           "buildVersion": "20508",
           "date": "2026-11-12T17:21:47Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.0/Unscroll-2.5.0.ipa",
           "size": 558774,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.0.1",
-          "buildVersion": "20001",
-          "date": "2026-10-11T16:57:35Z",
-          "localizedDescription": "• Unscroll 2.0.1: double-tapping a message likes it every time",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.0.1/Unscroll-2.0.1.ipa",
-          "size": 557364,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.8",
-      "versionDate": "2026-11-12T17:21:47Z",
-      "versionDescription": "• Unscroll 2.5.8: chat notifications list each message once, and leave out those already read",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.8/Unscroll-2.5.8.ipa",
-      "size": 562901
+      "version": "2.5.9",
+      "versionDate": "2026-11-17T06:28:16Z",
+      "versionDescription": "• Unscroll 2.5.9: the keyboard stays open in a share sheet's search over the DMs",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.9/Unscroll-2.5.9.ipa",
+      "size": 563267
     }
   ],
   "news": []
