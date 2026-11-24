@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.11",
+          "buildVersion": "20511",
+          "date": "2026-11-24T17:38:46Z",
+          "localizedDescription": "• Unscroll 2.5.11: messages read from a tapped notification stay out of the next one",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.11/Unscroll-2.5.11.ipa",
+          "size": 563773,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.10",
           "buildVersion": "20510",
           "date": "2026-11-17T06:39:08Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.2/Unscroll-2.5.2.ipa",
           "size": 559776,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.5.1",
-          "buildVersion": "20501",
-          "date": "2026-10-14T05:00:55Z",
-          "localizedDescription": "• The camera button no longer stays on screen over a chat's details",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.1/Unscroll-2.5.1.ipa",
-          "size": 558968,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
         }
       },
-      "version": "2.5.10",
-      "versionDate": "2026-11-17T06:39:08Z",
-      "versionDescription": "• Unscroll 2.5.10: back over a reel's comments in a chat closes the comments",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.10/Unscroll-2.5.10.ipa",
+      "version": "2.5.11",
+      "versionDate": "2026-11-24T17:38:46Z",
+      "versionDescription": "• Unscroll 2.5.11: messages read from a tapped notification stay out of the next one",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.11/Unscroll-2.5.11.ipa",
       "size": 563773
     }
   ],
