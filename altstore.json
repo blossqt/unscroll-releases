@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.13",
+          "buildVersion": "20513",
+          "date": "2026-11-27T22:30:35Z",
+          "localizedDescription": "• Unscroll 2.5.13: Hanami theme (Settings → Look)\n• Hanami theme: no background picture, a plain soft white page\n• Hanami theme: subtler pink, mostly white and glass\n• Hanami theme: Instagram in Hanami's look, a switch in Settings",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.13/Unscroll-2.5.13.ipa",
+          "size": 588626,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.12",
           "buildVersion": "20512",
           "date": "2026-11-27T01:48:36Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.4/Unscroll-2.5.4.ipa",
           "size": 561000,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.5.3",
-          "buildVersion": "20503",
-          "date": "2026-10-14T05:44:39Z",
-          "localizedDescription": "• A photo no longer brings a failed empty message with it: a stray space or line break left in the box was sent as one\n\niPhone too.",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.3/Unscroll-2.5.3.ipa",
-          "size": 560650,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "2.5.12",
-      "versionDate": "2026-11-27T01:48:36Z",
-      "versionDescription": "• Unscroll 2.5.12: profiles, posts and other pages slide in as the app's own screens\n• Unscroll 2.5.12: endless animations that relayout stay still, and ones just off screen pause\n• Unscroll 2.5.12: page changes, chats and the DMs move sooner and quicker",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.12/Unscroll-2.5.12.ipa",
-      "size": 562555
+      "version": "2.5.13",
+      "versionDate": "2026-11-27T22:30:35Z",
+      "versionDescription": "• Unscroll 2.5.13: Hanami theme (Settings → Look)\n• Hanami theme: no background picture, a plain soft white page\n• Hanami theme: subtler pink, mostly white and glass\n• Hanami theme: Instagram in Hanami's look, a switch in Settings",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.13/Unscroll-2.5.13.ipa",
+      "size": 588626
     }
   ],
   "news": []
