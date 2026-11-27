@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.12",
+          "buildVersion": "20512",
+          "date": "2026-11-27T01:48:36Z",
+          "localizedDescription": "• Unscroll 2.5.12: profiles, posts and other pages slide in as the app's own screens\n• Unscroll 2.5.12: endless animations that relayout stay still, and ones just off screen pause\n• Unscroll 2.5.12: page changes, chats and the DMs move sooner and quicker",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.12/Unscroll-2.5.12.ipa",
+          "size": 562555,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.11",
           "buildVersion": "20511",
           "date": "2026-11-24T17:38:46Z",
@@ -98,30 +107,21 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.3/Unscroll-2.5.3.ipa",
           "size": 560650,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.5.2",
-          "buildVersion": "20502",
-          "date": "2026-10-14T05:26:57Z",
-          "localizedDescription": "• Links off Instagram open in the app for them (YouTube's, say) or your phone's browser, where you're signed in\n• Hold a message with a link in it: Copy link\n\niPhone: Copy link in the chat menu. Links there already open in Safari.",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.2/Unscroll-2.5.2.ipa",
-          "size": 559776,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "To take a photo or video for a post, a story or a message.",
-          "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message.",
-          "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save."
+          "NSPhotoLibraryAddUsageDescription": "To save a photo you choose to save.",
+          "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "2.5.11",
-      "versionDate": "2026-11-24T17:38:46Z",
-      "versionDescription": "• Unscroll 2.5.11: messages read from a tapped notification stay out of the next one",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.11/Unscroll-2.5.11.ipa",
-      "size": 563773
+      "version": "2.5.12",
+      "versionDate": "2026-11-27T01:48:36Z",
+      "versionDescription": "• Unscroll 2.5.12: profiles, posts and other pages slide in as the app's own screens\n• Unscroll 2.5.12: endless animations that relayout stay still, and ones just off screen pause\n• Unscroll 2.5.12: page changes, chats and the DMs move sooner and quicker",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.12/Unscroll-2.5.12.ipa",
+      "size": 562555
     }
   ],
   "news": []
