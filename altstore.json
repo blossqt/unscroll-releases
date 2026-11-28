@@ -19,6 +19,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2.5.14",
+          "buildVersion": "20514",
+          "date": "2026-11-28T02:23:13Z",
+          "localizedDescription": "• Unscroll 2.5.14: the Hanami theme's camera button is pink too\n• Hanami theme: pink camera button in chats, serif name on the feed\n• Hanami theme: more pink again, a blush page and Hanami's pink pills",
+          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.14/Unscroll-2.5.14.ipa",
+          "size": 588843,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2.5.13",
           "buildVersion": "20513",
           "date": "2026-11-27T22:30:35Z",
@@ -98,15 +107,6 @@
           "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.5/Unscroll-2.5.5.ipa",
           "size": 562494,
           "minOSVersion": "16.4"
-        },
-        {
-          "version": "2.5.4",
-          "buildVersion": "20504",
-          "date": "2026-10-14T06:00:28Z",
-          "localizedDescription": "• Send videos in a chat: the photo button takes them now, and one too big for Instagram's website (25 MB) is made smaller first, as Instagram's app does\n\niPhone: the photo button offers videos too, up to Instagram's 25 MB (made smaller on Android only).",
-          "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.4/Unscroll-2.5.4.ipa",
-          "size": 561000,
-          "minOSVersion": "16.4"
         }
       ],
       "appPermissions": {
@@ -117,11 +117,11 @@
           "NSMicrophoneUsageDescription": "To record sound with a video for a post, a story or a message."
         }
       },
-      "version": "2.5.13",
-      "versionDate": "2026-11-27T22:30:35Z",
-      "versionDescription": "• Unscroll 2.5.13: Hanami theme (Settings → Look)\n• Hanami theme: no background picture, a plain soft white page\n• Hanami theme: subtler pink, mostly white and glass\n• Hanami theme: Instagram in Hanami's look, a switch in Settings",
-      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.13/Unscroll-2.5.13.ipa",
-      "size": 588626
+      "version": "2.5.14",
+      "versionDate": "2026-11-28T02:23:13Z",
+      "versionDescription": "• Unscroll 2.5.14: the Hanami theme's camera button is pink too\n• Hanami theme: pink camera button in chats, serif name on the feed\n• Hanami theme: more pink again, a blush page and Hanami's pink pills",
+      "downloadURL": "https://github.com/blossqt/unscroll-releases/releases/download/v2.5.14/Unscroll-2.5.14.ipa",
+      "size": 588843
     }
   ],
   "news": []
